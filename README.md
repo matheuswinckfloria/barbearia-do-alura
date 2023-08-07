@@ -1,2 +1,3 @@
-# barbearia-do-alura
+# barbearia
+doalura
 av3 de pcom
